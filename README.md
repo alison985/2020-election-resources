@@ -2,7 +2,8 @@
 
 PRs, tickets, etc. are welcome.
 
-## 
+# Vote!
+[resist.bot](https://resist.bot/) or text VOTE to 50409. They will even keep a watch on your voter registration and notify you if you get kicked off the voting rolls!
 
 ## Voter Guides
 * Ballotready
@@ -12,8 +13,21 @@ PRs, tickets, etc. are welcome.
 * [Joining a Chicago School Board](https://twitter.com/derekeder/status/1310665327215357957?s=20) from @DataMade
 * [Girl I Guess Voter Guide: A Progressive Voter Guide to the 2020 General Election in Cook County and Beyond](https://docs.google.com/document/u/0/d/1CFgtVl2S6SPs8KmV4YvrF1zrSL0o9u3gJKZ2Gu6cZG8/mobilebasic) #withjudges
 
+## Polling Place Info
+* Electioneering
+* [fact sheets for all 50 states explaining the laws barring unauthorized private militia groups](https://www.law.georgetown.edu/icap/our-work/addressing-the-rise-of-unlawful-private-paramilitaries/state-fact-sheets/) From [@JuddLegum's Twitter](https://twitter.com/JuddLegum/status/1313133638733697024). He's doing some cool independent journalism you can find at [popularinformation](https://popular.info/). Content by Georgetown University Law Center. "and what to do if groups of armed individuals are near a polling place or voter registration drive." 
+
+## Multi-media
+* [Hamilton Voting Video](https://youtu.be/YMmkXAIRXCU) Special voting version of Hamilton music with Lin-Manual Miranda.
+* [The Lincoln Project YouTube](https://www.youtube.com/channel/UCpYCxV51bykhMY-wSUozQRg) Republicans against Trumpism.
 
 ## Ways to Volunteer
+### Polling Place Worker
+* [Power The Polls](https://www.powerthepolls.org/tds)
+
+### Voter Protection
+* [https://866ourvote.org/volunteer/]()
+
 ### Writing Letters
 * https://votefwd.org/
 
