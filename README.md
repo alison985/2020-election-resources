@@ -6,17 +6,24 @@ PRs, tickets, etc. are welcome.
 * [resist.bot](https://resist.bot/) or text VOTE to 50409. They will even keep a watch on your voter registration and notify you if you get kicked off the voting rolls!
 * [IWillVote.org](https://iwillvote.com/) By DNC
 
-## Voter Guides and Information
+## Voter Guides and Endorsements
+
+### National
 * Ballotready
 * [FactCheck.org > 2020 Election](https://www.factcheck.org/tag/2020-election/)
-* [Injustice Watch on Judges for Cook County](https://www.injusticewatch.org/interactives/judicial-election-guide/2020-general/en)
 * [What's On the Ballot](https://whatsontheballot.com/) "A guide to local and state elections in the U.S., by Daniel Nichanian. Basically, all I'm watching right now, with an eye to the stakes for the left!" 390 items and growing.
 * [Ballotpedia](https://ballotpedia.org/Presidential_election,_2020)
+* [Voting While Black Endorsements](https://votingwhileblack.com/endorsements/) #Black
+* [The Collective PAC](https://collectivepac.org/candidates/) #Black
+* [Victory Fund](https://victoryfund.org/our-candidates/?office_level=federal) #LGBT
+
+### Illinois
+* [Personal PAC](https://www.personalpac.org/endorsements/) #Illinois #Pro-Choice
 
 ### Chicago
 * [Windy City Times printable election chart guides](http://www.windycitymediagroup.com/lgbt/ELECTIONS-2020-Windy-City-Times-printable-election-guide-charts/69292.html)[PDF] #LGBTQ #withjudges
-* [Joining a Chicago School Board](https://twitter.com/derekeder/status/1310665327215357957?s=20) from @DataMade
 * [Girl I Guess Voter Guide: A Progressive Voter Guide to the 2020 General Election in Cook County and Beyond](https://docs.google.com/document/u/0/d/1CFgtVl2S6SPs8KmV4YvrF1zrSL0o9u3gJKZ2Gu6cZG8/mobilebasic) #withjudges
+* [Injustice Watch on Judges for Cook County](https://www.injusticewatch.org/interactives/judicial-election-guide/2020-general/en) #withjudges
 
 ## Polling Place Info
 * Electioneering
@@ -52,3 +59,6 @@ PRs, tickets, etc. are welcome.
  
 ## Election Results
 * [Cook County Clerk](https://www.cookcountyclerk.com/election-results?field_election_date_value%5Bvalue%5D%5Byear%5D=2020)
+
+## Run for Office
+* [Joining a Chicago School Board](https://twitter.com/derekeder/status/1310665327215357957?s=20) from @DataMade
