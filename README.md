@@ -3,15 +3,21 @@
 PRs, tickets, etc. are welcome.
 
 # Vote!
-[resist.bot](https://resist.bot/) or text VOTE to 50409. They will even keep a watch on your voter registration and notify you if you get kicked off the voting rolls!
+* [resist.bot](https://resist.bot/) or text VOTE to 50409. They will even keep a watch on your voter registration and notify you if you get kicked off the voting rolls!
+* [IWillVote.org](https://iwillvote.com/) By DNC
 
 ## Voter Guides
 * Ballotready
+* [FactCheck.org > 2020 Election](https://www.factcheck.org/tag/2020-election/)
 
 ### Chicago
 * [Windy City Times printable election chart guides](http://www.windycitymediagroup.com/lgbt/ELECTIONS-2020-Windy-City-Times-printable-election-guide-charts/69292.html)[PDF] #LGBTQ #withjudges
 * [Joining a Chicago School Board](https://twitter.com/derekeder/status/1310665327215357957?s=20) from @DataMade
 * [Girl I Guess Voter Guide: A Progressive Voter Guide to the 2020 General Election in Cook County and Beyond](https://docs.google.com/document/u/0/d/1CFgtVl2S6SPs8KmV4YvrF1zrSL0o9u3gJKZ2Gu6cZG8/mobilebasic) #withjudges
+
+## Overviews of thing up for votes
+* [What's On the Ballot](https://whatsontheballot.com/) "A guide to local and state elections in the U.S., by Daniel Nichanian. Basically, all I'm watching right now, with an eye to the stakes for the left!" 390 items and growing.
+* [Ballotpedia](https://ballotpedia.org/Presidential_election,_2020)
 
 ## Polling Place Info
 * Electioneering
@@ -44,3 +50,6 @@ PRs, tickets, etc. are welcome.
 * [Democrats.org](https://events.democrats.org/?event_type=3) has some text banking options as well
 * Lots of individual campaigns have their own texting programs, so if there's a candidate you're particularly excited about, you can sign up to text or phone bank through the campaign website.
   * Lauren Underwood's campaign is done taking text bank volunteers.
+ 
+## Election Results
+* [Cook County Clerk](https://www.cookcountyclerk.com/election-results?field_election_date_value%5Bvalue%5D%5Byear%5D=2020)
